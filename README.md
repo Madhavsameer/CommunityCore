@@ -28,5 +28,4 @@ Follow these steps to set up the project locally:
 ### Backend Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/HarmonyNest.git  
-   cd HarmonyNest/backend  
+ 
