@@ -1,4 +1,4 @@
-# HarmonyNest
+# CommunityCore
 
 A full-stack society management application designed to simplify community administration and enhance user experiences. Built using **Spring Boot** for the backend, **React.js** for the frontend, and **MySQL** for database management, this platform ensures seamless interactions between residents and administrators.  
 
