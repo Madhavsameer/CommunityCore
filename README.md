@@ -25,7 +25,5 @@ Follow these steps to set up the project locally:
 - MySQL  
 - Docker (optional)  
 
-### Backend Setup  
-1. Clone the repository:  
-   ```bash  
+
  
